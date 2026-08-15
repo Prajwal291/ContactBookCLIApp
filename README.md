@@ -1,7 +1,7 @@
 
 # Contact Book CLI App
 
-A command-line contact book built in Python — add, view, search, and delete contacts, with persistent storage using JSON. Built as the Stage 2 capstone project for the [PruthTalks Python-for-AI roadmap](../README.md) (Structures + OOP week).
+A command-line contact book built in Python — add, view, search, and delete contacts, with persistent storage using JSON. Built as the Stage 2 capstone project.
 
 ## Features
 
